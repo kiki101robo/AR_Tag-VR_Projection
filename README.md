@@ -18,10 +18,10 @@ The "AR_Tag-VR_Projection" project is designed to process AR tags within video s
 ## Usage
 To use this project, ensure you have the necessary dependencies installed, including Python, OpenCV, NumPy, SciPy, and scikit-learn. Run each script according to the needs of the particular stage of processing:
 
-1. **FFT Background Isolation**: python fft_background.py
+1. **FFT Background Isolation**: fft_background.py
 2. **Corner Detection**: cornerfinder.py
-3. **2D Overlay on Tags**: python overlay_2D.py
-4. **3D Cube Overlay on Tags**: python overlay_3D.py
+3. **2D Overlay on Tags**: overlay_2D.py
+4. **3D Cube Overlay on Tags**: overlay_3D.py
 
 
 ### Results
