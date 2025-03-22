@@ -27,7 +27,7 @@ To use this project, ensure you have the necessary dependencies installed, inclu
 ### Results
 
 - **Input Video**: View the initial input video used in this project [here](https://drive.google.com/file/d/1_HdtHYuKAgU0gJFEWpsUzmgsLYVkeu29/view?usp=sharing).
-- **AR Decode Video**: Watch the AR decoding process in action [here](https://drive.google.com/file/d/1v4hKp4fYcDl2K5FGCLFwL3Ki7vUexKMJ/view?usp=sharing).
+- **AR Decode Video**: Watch the AR decoding process in action [here](https://drive.google.com/file/d/1GKY6M3MhUFejfy4CqXkH3UDHLj4IO_78/view?usp=sharing).
 - **VR Projection**: Check out the VR projection results [here](https://drive.google.com/file/d/1fI2vIGm894a9CCnl_8IhszvR_VSCrdCR/view?usp=sharing).
 
 ## Requirements
