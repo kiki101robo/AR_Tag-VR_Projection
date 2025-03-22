@@ -38,5 +38,3 @@ To use this project, ensure you have the necessary dependencies installed, inclu
 - matplotlib
 - scikit-learn
 
-## Installation
-Install the required packages using pip:
